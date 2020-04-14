@@ -1,2 +1,2 @@
-# flutter_training_vd
+# Flutter Training VentureDive
  This repo will include the solutions for weekly assignments given during training.
